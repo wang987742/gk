@@ -2,7 +2,7 @@
     "urls":[
         {
                 "urls":"http://120.53.102.254/tvb",
-                "name":"微信公众号"
+                "name":"公众号"
         },
         {
                 "urls":"https://agit.ai/hu/hcr/raw/branch/master/930.txt",
@@ -10,7 +10,7 @@
         },
         {
                 "urls":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt",
-                "name":"家庭内置线路"
+                "name":"家庭线路"
         },
         {
                 "urls":"https://www.xueximeng.com/tvbox/tvbox.json",
