@@ -2,31 +2,7 @@
     "urls":[
         {
                 "url":"http://120.53.102.254/tvb",
-                "name":"公众号"
-        },
-        {
-                "url":"https://agit.ai/hu/hcr/raw/branch/master/930.txt",
-                "name":"涤灵苑"
-        },
-        {
-                "url":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt",
-                "name":"家庭版"
-        },
-        {
-                "url":"https://www.xueximeng.com/tvbox/tvbox.json",
-                "name":"线路4"
-        },
-        {
-                "url":"https://cx342662.github.io/wy.json",
-                "name":"线路5"
-        },
-        {
-                "url":"http://120.53.102.254/tv-player/tv/update_yuan",
-                "name":"线路6"
-        },
-        {
-                "url":"https://gitee.com/ajin0913/tvbox/raw/main/TV.txt",
-                "name":"线路7"
+                "name":"涤灵苑家庭版"
         },
         {
                 "url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00315.txt",
