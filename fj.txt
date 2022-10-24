@@ -403,6 +403,11 @@
         {
                 "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/h",
                 "name":"线路101"
+        },
+        {
+                "url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+                "name":"此线路直播密码9527"
         }
+        
     ]
 }
