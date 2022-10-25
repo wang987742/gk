@@ -3,7 +3,7 @@
         {
                 "url":"https://gitea.com/Pandora2277/NoWar/raw/branch/main/tang.bmp",
                 "name":"线路1"
-        }
+        },
         {
                 "url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00315.txt",
                 "name":"线路2"
