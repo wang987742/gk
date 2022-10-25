@@ -1,7 +1,7 @@
 {
     "urls":[
         {
-                "url":"https://gitea.com/Pandora2277/NoWar/raw/branch/main/tang.bmp",
+                "url":"http://120.53.102.254/tvb",
                 "name":"线路1"
         },
         {
