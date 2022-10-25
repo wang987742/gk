@@ -1,7 +1,7 @@
 {
     "urls":[
         {
-                "url":"https://gitea.com/Pandora2277/NoWar/raw/branch/main/tang.bmp",
+                "url":"http://home.jundie.top:81/top97.json",
                 "name":"线路1"
         },
         {
