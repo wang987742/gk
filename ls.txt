@@ -2,19 +2,19 @@
     "urls":[
         {
                 "url":"http://120.53.102.254/tvb",
-                "name":"线路如果失效"
+                "name":"线路1"
         },
         {
                 "url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00315.txt",
-                "name":"请私信公众号"
+                "name":"线路2"
         },
         {
                 "url":"https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-                "name":"涤灵苑"
+                "name":"线路3"
         },
         {
                 "url":"https://notabug.org/zqk219/yingshicang/raw/master/TVBox_Py/py.json",
-                "name":"部分线路部分站点失效"
+                "name":"线路4"
         },
         {
                 "url":"http://111.67.196.181/mtv/270.txt",
@@ -369,8 +369,68 @@
                 "name":"线路92"
         },
         {
-                "url":"https://gitea.com/playgayme/boxRepository/raw/branch/main/TVBox/xzy.json",
+                "url":"https://0a.fit/自用",
                 "name":"线路93"
+        },
+        {
+                "url":"http://www.yunwp.cn/api/v3/file/get/1091/%E5%B0%8F%E8%8B%B9%E6%9E%9C.json?sign=hw7G_QR0rjAJEt1jix8duEV_0FiY8B14t41TVqJJ0DM%3D%3A0",
+                "name":"线路94"
+        },
+        {
+                "url":"http://maoyingshi.cc/tvbox/星河软件园/1.m3u8",
+                "name":"线路95"
+        },
+        {
+                "url":"https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt",
+                "name":"线路96"
+        },
+        {
+                "url":"https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
+                "name":"线路97"
+        },
+        {
+                "url":"http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+                "name":"线路98"
+        },
+        {
+                "url":"https://神器每日推送.tk/pz.json",
+                "name":"线路99"
+        },
+        {
+                "url":"http://xn--4bra.live/%E7%8C%AB ",
+                "name":"线路100"
+        },
+        {
+                "url":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
+                "name":"线路101"
+        },
+        {
+                "url":"https://agit.ai/hu/hcr/raw/branch/master/29333.txt",
+                "name":"线路102"
+        },
+        {
+                "url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
+                "name":"线路103"
+        },
+        {
+                "url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/c1tq.json",
+                "name":"线路104"
+        },
+        {
+                "url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
+                "name":"线路105"
+        },
+        {
+                "url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json",
+                "name":"线路106"
+        },
+        {
+                "url":"https://pan.tenire.com/down.php/079e7bb5c863b4ba37bc07a712188423.txt&zn777",
+                "name":"线路107"
+        },
+        {
+                "url":"https://pan.tenire.com/down.php/079e7bb5c863b4ba37bc07a712188423.txt&zn777",
+                "name":"线路108"
         }
     ]
 }
