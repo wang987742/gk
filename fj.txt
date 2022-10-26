@@ -433,7 +433,7 @@
                 "name":"线路108"
         },
         {
-                "url":"https://gitcode.net/qq_33403597/tvys/-/raw/master/jgfx903.json",
+                "url":"以下线路禁止进入，仅供测试。",
                 "name":"以下线路禁止进入，仅供测试。"
         },
         {
