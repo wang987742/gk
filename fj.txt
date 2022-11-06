@@ -521,7 +521,7 @@
             "name": "线路119"
         },{
             "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
-            "name": "此线路直播密6665"
+            "name": "此线路直播密66"
         },
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
