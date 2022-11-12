@@ -4,10 +4,7 @@
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "新增1"
         },
-        {
-            "url": "http://000913.xyz/box/tv.json",
-            "name": "新增2"
-        },
+        
         {
             "url": "http://www.dmtv.ml/mao/mao.php?type=single",
             "name": "新增3"
@@ -521,7 +518,7 @@
             "name": "线路119"
         },{
             "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
-            "name": "此线路直播密66"
+            "name": "此线路直播密56"
         },
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
