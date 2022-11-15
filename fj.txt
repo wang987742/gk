@@ -1,5 +1,13 @@
 {
     "urls": [
+         {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "新增fj,在底部"
+        },
+         {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "109好似jar失效，先放那里吧"
+        },
         {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "新增1"
