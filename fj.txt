@@ -4,13 +4,10 @@
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "新增1"
         },
-        
-       
         {
             "url": "http://101.34.67.237/config/3",
             "name": "新增4"
-        },
-        
+        },    
         {
             "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
             "name": "新增6"
