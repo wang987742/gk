@@ -1,11 +1,11 @@
 {
     "storeHouse":[
         {
-                "sourceName":"整仓失效私信我",
+                "sourceName":"线路失效私信我",
                 "sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"
         },
         {
-                "sourceName":"报仓库号移除",
+                "sourceName":"报仓库号线路号移除",
                 "sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
         },
         {
