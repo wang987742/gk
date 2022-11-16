@@ -1,13 +1,6 @@
 {
     "urls": [
-         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "name": "新增fj,在底部"
-        },
-         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "name": "109好似jar失效，先放那里吧"
-        },
+        
         {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "新增1"
@@ -63,10 +56,6 @@
         {
             "url": "http://js.134584.xyz/json/pp87.json",
             "name": "线路6"
-        },
-        {
-            "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "线路7"
         },
         {
             "url": "http://9xi4o.tk/0725.json",
