@@ -1,9 +1,6 @@
 {
     "urls": [
-            {
-            "url": "clan://localhost/Js/js.json",
-            "name": "要有道长本地包"
-        },
+       
         {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "新增1"
