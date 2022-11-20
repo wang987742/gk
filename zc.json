@@ -4,7 +4,10 @@
       "url": "https://agit.ai/gk0746/2/raw/branch/master/tz%20.json",
       "name": "涤灵苑"
     },
-    
+         {
+            "url": "clan://localhost/Js/js.json",
+            "name": "要有道长本地包"
+        },
        {
       "url": "https://agit.ai/gk0746/2/raw/branch/master/1.bmp",
       "name": "影视"
