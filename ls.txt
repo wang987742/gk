@@ -1,9 +1,6 @@
 {
     "urls": [
-          {
-            "url": "clan://localhost/Js/js.json",
-            "name": "要有道长本地包"
-        },
+       
         {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
             "name": "新增1"
@@ -12,18 +9,12 @@
             "url": "http://101.34.67.237/config/3",
             "name": "新增4"
         },    
-        {
-            "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
-            "name": "新增6"
-        },
+
         {
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e6%95%99%e8%82%b2%ef%b9%a0%e6%95%99%e7%a8%8b.txt ",
             "name": "新增7"
         },
-        {
-            "url": "http://xn--4bra.live/gg0906.json",
-            "name": "新增8"
-        },
+
         {
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视7.txt ",
             "name": "新增9"
@@ -80,10 +71,7 @@
             "url": "https://out.zxglife.top/down.php/05ad8a16e71ebb56b4ff3d719ab3963f.txt&zn777",
             "name": "线路12"
         },
-        {
-            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-            "name": "线路13"
-        },
+
         {
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视2.txt ",
             "name": "线路14"
@@ -92,14 +80,8 @@
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视3.txt ",
             "name": "线路15"
         },
-        {
-            "url": "https://agit.ai/767820774/ziyong2/raw/branch/master/33.txt",
-            "name": "线路16"
-        },
-        {
-            "url": "https://agit.ai/767820774/mao666/raw/branch/master/json/自用.json",
-            "name": "线路17"
-        },
+
+
         {
             "url": "http://52bsj.vip:98/wuai",
             "name": "线路18"
@@ -136,10 +118,7 @@
             "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
             "name": "线路26"
         },
-        {
-            "url": "https://od.lk/d/MThfMzYzOTY5MTFf/XC.txt",
-            "name": "线路27"
-        },
+
         {
             "url": "https://liu673cn.github.io/box/m.json ",
             "name": "线路28"
@@ -148,10 +127,7 @@
             "url": "http://刚刚.live/猫.json",
             "name": "线路29"
         },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "线路30"
-        },
+
         {
             "url": "https://0dlj.cn/丰富点",
             "name": "线路31"
@@ -176,10 +152,7 @@
             "url": "http://xn--4bra.live/猫",
             "name": "线路36"
         },
-        {
-            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
-            "name": "线路37"
-        },
+
         {
             "url": "https://dlj2.cn/星辰影视",
             "name": "线路38"
@@ -196,10 +169,7 @@
             "url": "https://dlj2.cn/ch",
             "name": "线路41"
         },
-        {
-            "url": "https://cdn.staticaly.com/gh/liu673cn/box/main/m.json",
-            "name": "线路42"
-        },
+
         {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "线路43"
@@ -224,30 +194,13 @@
             "url": "https://agit.ai/lsk617/y/raw/branch/master/X.json",
             "name": "线路48"
         },
-        {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
-            "name": "线路49"
-        },
-        {
-            "url": "https://raw.fastgit.org/once678/looktv/main/tvbox8.json",
-            "name": "线路50"
-        },
-        {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "name": "线路51"
-        },
-        {
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/haoh.txt",
-            "name": "线路52"
-        },
+
+
         {
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt",
             "name": "线路53"
         },
-        {
-            "url": "https://agit.ai/66666/mao/raw/commit/594f59504412e4ea234d9091dc86a5e0390a80eb/00/999.m3u8",
-            "name": "线路54"
-        },
+   
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
             "name": "线路55"
