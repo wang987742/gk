@@ -1,8 +1,19 @@
 {
   "urls": [
+
+        {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/1.bmp",
+      "name": "dly一线"
+    },    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/2.bmp",
+      "name": "dly二线"
+    },    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/3.bmp",
+      "name": "dly三线"
+    },
     {
       "url": "https://agit.ai/gk0746/2/raw/branch/master/tz%20.json",
-      "name": "涤灵苑"
+      "name": "dly四线"
     },
          {
             "url": "clan://localhost/Js/js.json",
