@@ -1,10 +1,10 @@
 {
     "urls": [
        
-        {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "name": "新增1"
-        },
+         {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/dd1.bmp",
+      "name": "dly一线"
+    }, 
         {
             "url": "http://101.34.67.237/config/3",
             "name": "新增4"
