@@ -2,15 +2,8 @@
   "urls": [
 
         {
-      "url": "https://agit.ai/gk0746/2/raw/branch/master/dd1.bmp",
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/dd.bmp",
       "name": "dly一线"
-    },    {
-      "url": "https://agit.ai/gk0746/2/raw/branch/master/dd2.bmp",
-      "name": "dly二线"
-    },    {
-      "url": "https://agit.ai/gk0746/2/raw/branch/master/dd3.bmp",
-      "name": "dly三线"
-    },
     {
       "url": "https://agit.ai/gk0746/2/raw/branch/master/tz%20.json",
       "name": "dly四线"
