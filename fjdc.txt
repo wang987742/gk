@@ -8,6 +8,14 @@
                 "sourceName":"fj ",
                 "sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"
         },
+          {
+                "sourceName":"测试",
+                "sourceUrl":"https://agit.ai/sxjzlb/live/raw/branch/master/dcb.json"
+        },
+        {
+                "sourceName":"测试",
+                "sourceUrl":"https://agit.ai/zengjian/han/raw/branch/master/ku/3.json"
+        },
         {
                 "sourceName":"2号",
                 "sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
