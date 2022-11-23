@@ -2,8 +2,8 @@
     "urls": [
        
          {
-      "url": "https://agit.ai/gk0746/2/raw/branch/master/dd1.bmp",
-      "name": "dly一线"
+      "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+      "name": "新增1"
     }, 
         {
             "url": "http://101.34.67.237/config/3",
