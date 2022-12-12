@@ -45,7 +45,7 @@
             "name": "线路119"
         },{
             "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
-            "name": "55"
+            "name": "5"
         },
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
@@ -53,7 +53,7 @@
         }, 
               {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
-            "name": "5"
+            "name": "5或55"
         },      
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/haoh.txt",
