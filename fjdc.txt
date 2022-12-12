@@ -1,9 +1,6 @@
 {
     "storeHouse":[
-              {
-           "sourceName": "涤灵苑家庭绿色版",
-           "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/lsnz.txt"
-      }，
+            
                {
                 "sourceName":"dly",
                 "sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/zc.json"
