@@ -1,5 +1,9 @@
 {
     "storeHouse":[
+              {
+           "sourceName": "涤灵苑家庭绿色版",
+           "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"
+      }，
                {
                 "sourceName":"dly",
                 "sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/zc.json"
@@ -7,8 +11,8 @@
         {
                 "sourceName":"fj ",
                 "sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"
-        },
-        
+        },     
+      
         {
                 "sourceName":"测试",
                 "sourceUrl":"https://agit.ai/zengjian/han/raw/branch/master/ku/3.json"
